@@ -1,0 +1,15 @@
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\bin\Debug\net6.0\CalculoSimples.exe
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\bin\Debug\net6.0\CalculoSimples.deps.json
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\bin\Debug\net6.0\CalculoSimples.runtimeconfig.json
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\bin\Debug\net6.0\CalculoSimples.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\bin\Debug\net6.0\CalculoSimples.pdb
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.csproj.AssemblyReference.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.AssemblyInfo.cs
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\refint\CalculoSimples.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.pdb
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\CalculoSimples.genruntimeconfig.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\CalculoSimples\obj\Debug\net6.0\ref\CalculoSimples.dll
