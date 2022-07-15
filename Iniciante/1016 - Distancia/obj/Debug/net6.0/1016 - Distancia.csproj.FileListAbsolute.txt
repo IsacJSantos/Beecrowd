@@ -1,0 +1,15 @@
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\bin\Debug\net6.0\1016 - Distancia.exe
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\bin\Debug\net6.0\1016 - Distancia.deps.json
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\bin\Debug\net6.0\1016 - Distancia.runtimeconfig.json
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\bin\Debug\net6.0\1016 - Distancia.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\bin\Debug\net6.0\1016 - Distancia.pdb
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.csproj.AssemblyReference.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.AssemblyInfo.cs
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\refint\1016 - Distancia.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.pdb
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\1016 - Distancia.genruntimeconfig.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1016 - Distancia\obj\Debug\net6.0\ref\1016 - Distancia.dll
