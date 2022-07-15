@@ -1,0 +1,15 @@
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\bin\Debug\net6.0\1017 - GastoDeCombustivel.exe
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\bin\Debug\net6.0\1017 - GastoDeCombustivel.deps.json
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\bin\Debug\net6.0\1017 - GastoDeCombustivel.runtimeconfig.json
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\bin\Debug\net6.0\1017 - GastoDeCombustivel.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\bin\Debug\net6.0\1017 - GastoDeCombustivel.pdb
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.csproj.AssemblyReference.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.AssemblyInfo.cs
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\refint\1017 - GastoDeCombustivel.dll
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.pdb
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\1017 - GastoDeCombustivel.genruntimeconfig.cache
+C:\Users\isacj\Desktop\Isac\Projetos\Beecrowd\Iniciante\1017 - GastoDeCombustivel\obj\Debug\net6.0\ref\1017 - GastoDeCombustivel.dll
